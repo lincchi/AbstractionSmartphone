@@ -1,0 +1,13 @@
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.csprojAssemblyReference.cache
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.AssemblyInfoInputs.cache
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.AssemblyInfo.cs
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.csproj.CoreCompileInputs.cache
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\bin\Debug\netcoreapp3.1\AbstractionSmarphone.exe
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\bin\Debug\netcoreapp3.1\AbstractionSmarphone.deps.json
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\bin\Debug\netcoreapp3.1\AbstractionSmarphone.runtimeconfig.json
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\bin\Debug\netcoreapp3.1\AbstractionSmarphone.runtimeconfig.dev.json
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\bin\Debug\netcoreapp3.1\AbstractionSmarphone.dll
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\bin\Debug\netcoreapp3.1\AbstractionSmarphone.pdb
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.dll
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.pdb
+D:\College\Semester 2\Pemrograman\Abstraction\AbstractionSmarphone\AbstractionSmarphone\obj\Debug\netcoreapp3.1\AbstractionSmarphone.genruntimeconfig.cache
